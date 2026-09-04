@@ -1,0 +1,78 @@
+CLINIC PATIENT POLICY AND INFORMATION
+
+1. Clinic Overview
+The clinic provides general medical consultation, follow-up appointments, and basic healthcare services. Patients can book appointments with available doctors through the clinic appointment system.
+The clinic operates from Monday to Saturday. Regular clinic hours are from 9:00 AM to 5:00 PM. The clinic is closed on Sunday.
+Patients are encouraged to arrive at least 15 minutes before their scheduled appointment so that registration and verification can be completed before seeing the doctor.
+
+
+2. Appointment Booking
+Patients can book an appointment through the online appointment system. During booking, the patient must provide their full name, phone number, and basic appointment information.
+An appointment is considered confirmed only after the booking process has been completed successfully.
+Patients should check their appointment date and time after booking. If an appointment does not appear in the patient's appointment list, the patient should contact the clinic administration.
+
+
+3. Appointment Cancellation
+Patients can cancel their appointment up to 24 hours before the scheduled appointment time.
+If a patient cancels an appointment less than 24 hours before the scheduled appointment, the clinic may not be able to provide the same appointment slot to another patient.
+Patients should cancel appointments as early as possible when they know they cannot attend.
+
+4. Rescheduling Appointments
+Patients who cannot attend their scheduled appointment may request a different appointment time.
+Rescheduling depends on the availability of the doctor and available appointment slots.
+A patient should reschedule an appointment before the original appointment time whenever possible.
+
+5. Doctor Consultation
+Doctors provide medical consultation during their scheduled clinic hours.
+The standard consultation fee is $50 per appointment unless a different fee has been specified for a particular doctor or service.
+The consultation fee must be paid according to the clinic's payment procedure.
+Patients should discuss their medical concerns clearly with the doctor and provide relevant information about previous treatments when requested.
+
+6. Patient Identification
+Patients must bring a valid identity card or other accepted identification document to their appointment.
+The clinic may ask patients to provide identification information during registration.
+Patients should make sure that the information provided during registration is accurate.
+
+7. Late Arrival
+Patients who arrive late may have to wait until the doctor becomes available.
+A late arrival does not guarantee that the original appointment time will still be available
+If a patient expects to arrive late, they should contact the clinic as soon as possible.
+
+8. Waiting Time
+The estimated waiting time may change depending on the number of patients waiting and the doctor's current appointment progress.
+The clinic appointment system may display an estimated waiting time when this information is available.
+Patients should understand that estimated waiting times are not guaranteed and may change during the day.
+
+9. Clinic Closure
+The clinic is normally open from 9:00 AM to 5:00 PM, Monday through Saturday.
+The clinic may close temporarily because of an emergency, maintenance, public holiday, or other operational reason.
+When the clinic is closed, patients may not be able to book or attend appointments until services resume.
+
+10. Payments
+Patients are responsible for paying the applicable consultation or service fees.
+Payment information should be checked carefully before completing a transaction.
+If a patient believes that a payment was processed incorrectly, they should contact the clinic administration with the relevant payment information.
+
+11. Patient Information
+Patients should provide accurate contact information when creating or updating their profile.
+The clinic uses patient information to manage appointments and provide healthcare services.
+Patients should update their phone number or other contact information when it changes so that the clinic can communicate important appointment information.
+
+12. Doctor Availability
+A doctor's availability depends on the doctor's clinic schedule.
+A doctor may temporarily be unavailable even when the clinic itself is open.
+Patients should check the appointment system for the doctor's available appointment slots before booking.
+
+13. Appointment Status
+An appointment may have different statuses during its lifecycle.
+A newly created appointment may be marked as pending or confirmed depending on the booking process.
+An appointment can later be completed or cancelled.
+Patients should check their appointment status before visiting the clinic.
+
+14. Contacting Administration
+Patients should contact clinic administration when they experience problems with appointments, payments, account information, or other clinic services.
+When contacting administration about an appointment, patients should provide their appointment information so that the issue can be investigated efficiently.
+
+15. General Patient Responsibility
+Patients are responsible for providing accurate information, arriving on time, following appointment procedures, and paying applicable fees.
+Patients should read the clinic policies carefully and contact the clinic administration if they are unsure about any procedure.

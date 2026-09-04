@@ -14,10 +14,10 @@ query = "can i can cel my appointment"
 
 query_Embedding = model.encode([query])
 
-
+top_k = 3
 score = cosine_similarity(query_Embedding,chunk_embedding)
 
-bset_index = score[0].argmax()
+top_indices = score[0].argsort()[-top_k:][::-1]
 
-
-print(chunks[bset_index])
+for index in top_indices:
+    print(chunks[index]) 
